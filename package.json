@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "chalk": "^2.4.1",
+    "spongemock": "^0.0.8"
+  }
+}
